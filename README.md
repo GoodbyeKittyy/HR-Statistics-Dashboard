@@ -1,6 +1,6 @@
 ## Description
 
-This Supply Chain Analysis project aimed to optimize operational efficiency by examining and improving various components of the supply chain. The geographical comprehensive analysis covered the end-to-end processes, from raw material sourcing to product delivery, with the ultimate goal of reducing costs, and enhancing overall supply chain performance. In addition, I have included documentation on how it can be done using Python. Below is a non-exhaustive list of concepts integrated include the following:
+The HR Analysis Dashboard provides comprehensive insights into various aspects of human resources management, with a focus on employee strength, attrition rate, gender distribution, and education levels within the organization. It enables HR professionals and business leaders to analyze and monitor key metrics related to workforce composition, turnover, diversity, and educational background. Below is a non-exhaustive list of concepts integrated include the following:
 
 1. Geographical Segregation
 2. Profit Trending
@@ -10,12 +10,13 @@ This Supply Chain Analysis project aimed to optimize operational efficiency by e
 ## Tools Used
 
 - Power BI Software
-- Excel (Raw Data as csv file)
-- Python
+- Excel (Raw Data)
+
 
 ## Data Model
-![image](https://github.com/GoodbyeKittyy/Supply-Chain-Geographical-Analysis-Dashboard/assets/161730857/25999617-731e-4535-98dd-9fc2d1f8da98)
+![image](https://github.com/GoodbyeKittyy/HR-Statistics-Dashboard/assets/161730857/ab0e6c1c-9364-45d5-b3c4-7b96fcb47cd6)
 
 
 ## Dashboard Design
-![image](https://github.com/GoodbyeKittyy/Supply-Chain-Geographical-Analysis-Dashboard/assets/161730857/a3e7bc75-6089-44aa-8e2d-45447ba1e929)
+![image](https://github.com/GoodbyeKittyy/HR-Statistics-Dashboard/assets/161730857/58ee2efd-040f-4737-8d61-3ccc94bcf725)
+
